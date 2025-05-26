@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Siddi Harshini</h1>
-<h3 align="center">Aspiring Software Developer | Tech Enthusiast | CGPA 9.92 | Class of 2027</h3>
+<h3 align="center">Incoming SDET @ Amazon | BVRIT Hyderabad | CGPA: 9.92</h3>
 
 ---
 
-- 🌱 I’m currently learning **Spring Boot, React, MySQL, and Cloud Computing**
-- 👨‍💻 All of my projects are available at [My Portfolio Website](https://your-portfolio-link.com) <!-- update if you have -->
-- 💬 Ask me about **Java, Python, Web Development, and Sign Language Recognition**
+### 💡 About Me
+- 🎓 B.Tech CSE, Class of 2027  
+- 💻 Java, Python, Web Development  
+- 🌱 Learning **Spring Boot, React, and Cloud Computing** 
+- 🧠 Interested in DSA, ML, and AI projects
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/siddi-Harshini)
 - 🏆 Smart Coder Program Graduate @ Smart Interviews
-- 📫 How to reach me: **siddiharshini@example.com** <!-- add real email -->
 - 🔭 I’m currently working on: 
   - 🔤 Indian & American Sign Language Translators
-  - 🛒 E-commerce website in React + Spring Boot
+  - 🛒 E-commerce website using React + Spring Boot
 
 ---
 
@@ -34,11 +36,13 @@
 </p>
 
 ---
-
-### 🏆 Achievements
-- 🚀 Selected for AI Hackathon – **AI Hack Day**
-- 🎓 Represented project at **IIIT Hyderabad R&D Showcase**
-- 💡 Built real-time ASL detection app using MediaPipe, PyTorch, OpenCV
+### 🔥 Highlights
+- 🏆 Amazon FFE-AFE Scholar  
+- 🧠 Finalist in **BNY Code Divas Challenge 2025**
+- 🎖️ CodeChef 2★, LeetCode 150+ problems solved
+- 🏅 Gold badge in Java, Silver badges in Python and C – *HackerRank*
+- 🤖 Built real-time Sign Language Detection  
+- 🛒 Developed a full-stack E-Commerce site  
 
 ---
 
@@ -46,6 +50,10 @@
 <p>
   <a href="https://www.linkedin.com/in/harshini-siddi-a162552a3/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+
+
+
 
 
 
