@@ -69,34 +69,3 @@
 
 
 
-<h2 align="center">Hey there! I'm Harshini 👋</h2>
-<p align="center">
-  Exploring tech, building cool things, and growing one line of code at a time.
-</p>
-
----
-
-### 💡 About Me
-- 🎓 B.Tech CSE @ BVRIT Hyderabad (2027)
-- 💻 I enjoy turning ideas into code and solving real-world problems
-- 🔭 Currently exploring full-stack development & AI-powered apps
-- 📚 Learning: Spring Boot | React | Cloud | DSA
-
----
-
-### 🌱 Projects I’m Proud Of
-- ✨ Real-time [Sign Language Recognition](https://github.com/siddi-Harshini/SIGN-LANGUAGE)
-- 🛒 Functional [E-Commerce Platform](https://github.com/siddi-Harshini/E-Commerce-Website)
-- 🧮 Smart [Exam Hall Seating App](https://github.com/siddi-Harshini/Exam-Hall-Seating-Arrangement)
-
----
-
-### 🌍 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/harshini-siddi-a162552a3/) · ✉️ 23wh1a05c9@bvrithyderabad.edu.in
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddi-Harshini&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" />
-</p>
-
