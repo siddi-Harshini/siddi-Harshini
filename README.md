@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshini Siddi</h1>
-<h3 align="center">Incoming SDET Intern @ Amazon | B.Tech CSE @ BVRIT Hyderabad | CGPA: 9.92</h3>
+<h3 align="center">Former SDET Intern @ Amazon | B.Tech CSE @ BVRIT Hyderabad | CGPA: 9.83</h3>
 
 ---
 
